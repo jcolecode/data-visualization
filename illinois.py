@@ -41,7 +41,7 @@ fig.update_geos(fitbounds='locations', visible=False)
 fig.show()
 
 app.layout = html.Div([
-        html.H1("COVID-19 Total Cases per each Illinois County",
+        html.H1("Total COVID-19 Cases by Illinois County",
             style = {
                 'textAlign': 'center'
             }),
