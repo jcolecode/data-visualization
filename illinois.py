@@ -53,7 +53,7 @@ app.layout = html.Div([
 
         dcc.Graph(id='graph', figure=fig, responsive=True,
         style = {
-                'height' : '50vh',
+                'height' : '80vh',
             }),
 ])
 
