@@ -23,6 +23,8 @@ app = dash.Dash(
     suppress_callback_exceptions=True
 )
 
+app.title = 'IL COVID-19'
+
 with urlopen('https://raw.githubusercontent.com/codeforgermany/click_that_hood/main/public/data/illinois-counties.geojson') as response:
     counties = json.load(response)
 

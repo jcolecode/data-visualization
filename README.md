@@ -1,5 +1,5 @@
 ## COVID 19 Total Cases for Illinois
-A Dash Plotly based website by utilizing Python hosted on Heroku.
+A Dash-Plotly based website by utilizing Python hosted on Heroku.
 
 ### License
 
