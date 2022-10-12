@@ -5,7 +5,6 @@ import plotly.express as px
 import dash_core_components as dcc
 import dash_html_components as html
 from urllib.request import urlopen
-from dash import Input, Output
 
 app = dash.Dash(
     __name__,
