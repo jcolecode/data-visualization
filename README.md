@@ -1,6 +1,10 @@
 ## COVID 19 Total Cases for Illinois
 A Dash-Plotly based website by utilizing Python hosted on Heroku.
 
+<p float="left">
+<img src="map.png" alt="drawing" width="400"/>
+</p>
+
 ### License
 
 Feel free to use this site as a template for your own data visualization project.
