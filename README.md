@@ -1,5 +1,5 @@
 ## COVID 19 Total Cases for Illinois
-A Dash-Plotly based website by utilizing Python hosted on Heroku.
+A Dash-Plotly based website by utilizing Python, Docker, and back4app.
 
 <p float="left">
 <img src="map.png" alt="drawing" width="400"/>
@@ -7,11 +7,9 @@ A Dash-Plotly based website by utilizing Python hosted on Heroku.
 
 ### License
 
-Feel free to use this site as a template for your own data visualization project.
-
 MIT License
 
-Copyright (c) [2022] [Jacob Cole]
+Copyright (c) [2023] [Jacob Cole]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
