@@ -4,7 +4,10 @@ WORKDIR /app
 
 COPY . .
 
-RUN pip install -r requirements.txt
+# Install dependencies
+RUN apt-get update \
+    && apt-get install -y curl \
+    && pip install -r requirements.txt
 
 EXPOSE 8050
 
